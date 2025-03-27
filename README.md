@@ -1,10 +1,10 @@
 # 🔢 Classificação de Imagens com KNN
 
-✨ Projeto desenvolvido para a disciplina GAC105 - Programação Paralela e Concorrente.
+Projeto desenvolvido para a disciplina GAC105 - Programação Paralela e Concorrente.
 
 ## 📝 Descrição
 
-🧠 Implementação do algoritmo K-Nearest Neighbors (KNN) para classificação de dígitos manuscritos do dataset MNIST, com paralelização usando Joblib.
+Implementação do algoritmo K-Nearest Neighbors (KNN) para classificação de dígitos manuscritos do dataset MNIST, com paralelização usando Joblib.
 
 ## 👥 Autores
 - Lucas Carvalho Ferreira
